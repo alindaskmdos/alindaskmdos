@@ -130,3 +130,10 @@ namespace AboutMe
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> <b>Вклад</b>
 
 <div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alindaskmdos/alindaskmdos/output/github-snake-dark.svg" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
