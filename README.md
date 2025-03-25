@@ -105,21 +105,24 @@ namespace AboutMe
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub статистика</b>
 
-<div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; background:transparent; table-layout:fixed;">
-    <tr style="height:180px; border:none;">
-      <td width="50%" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle;">
-        <img width="400px" height="180px" style="max-width:100%; object-fit:contain;" src="https://github-readme-stats.vercel.app/api?username=alindaskmdos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&card_width=400" alt="GitHub Stats"/>
+<div align="center" style="background-color:#0d1117;">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; background-color:#0d1117; table-layout:fixed;">
+    <!-- Первый ряд с GitHub Stats и Top Languages -->
+    <tr style="height:180px; border:none; background-color:#0d1117;">
+      <td width="50%" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle; background-color:#0d1117;">
+        <img width="400px" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-stats.vercel.app/api?username=alindaskmdos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&card_width=400" alt="GitHub Stats"/>
       </td>
-      <td width="50%" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle;">
-        <img width="400px" height="180px" style="max-width:100%; object-fit:contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaskmdos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=400" alt="Top Languages"/>
+      <td width="50%" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle; background-color:#0d1117;">
+        <img width="400px" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaskmdos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=400" alt="Top Languages"/>
+      </td>
+    </tr>
+    <!-- Второй ряд с GitHub Streak -->
+    <tr style="height:180px; border:none; background-color:#0d1117;">
+      <td colspan="2" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle; background-color:#0d1117;">
+        <img width="70%" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-streak-stats.herokuapp.com/?user=alindaskmdos&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
-  
-  <a href="https://github.com/alindaskmdos">
-    <img width="70%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=alindaskmdos&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  </a>
 </div>
 
 <div align="center">
