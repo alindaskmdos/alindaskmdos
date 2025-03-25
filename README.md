@@ -36,7 +36,8 @@ namespace AboutMe
     {
         static void Main()
         {
-            var me = new Developer();
+            Developer? me = new Developer();
+            me.SayHi();
             me.SayHi();
         }
     }
@@ -45,19 +46,19 @@ namespace AboutMe
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Связь со мной</b>
 <p align="center">
-  <a href="mailto:stasvecher06@mail.ru">
+  <span>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discord.gg/edasdmlkmdlksamf">
+  </span>
+  <span>
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  </span>
 </p>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>Технический стек</b>
 
-<table align="center">
-<tr>
-<td>
+<table align="center" style="border:none; border-collapse:collapse; background:transparent;">
+<tr style="border:none;">
+<td style="border:none; padding:15px;">
 
 ### 📋 Языки
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -66,7 +67,7 @@ namespace AboutMe
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 </td>
-<td>
+<td style="border:none; padding:15px;">
 
 ### 📚 Фреймворки
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -76,8 +77,8 @@ namespace AboutMe
 
 </td>
 </tr>
-<tr>
-<td>
+<tr style="border:none;">
+<td style="border:none; padding:15px;">
 
 ### 💾 Базы данных
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -86,7 +87,7 @@ namespace AboutMe
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
-<td>
+<td style="border:none; padding:15px;">
 
 ### 🛠 Инструменты
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -105,21 +106,21 @@ namespace AboutMe
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub статистика</b>
 
 <div align="center">
-  <p>
-    <a href="https://github.com/alindaskmdos">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alindaskmdos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    </a>
-    <a href="https://github.com/alindaskmdos">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaskmdos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/alindaskmdos">
-      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=alindaskmdos&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-    </a>
-  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; background:transparent; table-layout:fixed;">
+    <tr style="height:180px; border:none;">
+      <td width="50%" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle;">
+        <img width="400px" height="180px" style="max-width:100%; object-fit:contain;" src="https://github-readme-stats.vercel.app/api?username=alindaskmdos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&card_width=400" alt="GitHub Stats"/>
+      </td>
+      <td width="50%" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle;">
+        <img width="400px" height="180px" style="max-width:100%; object-fit:contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaskmdos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=400" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+  
+  <a href="https://github.com/alindaskmdos">
+    <img width="70%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=alindaskmdos&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  </a>
 </div>
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -129,18 +130,8 @@ namespace AboutMe
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alindaskmdos/alindaskmdos/output/github-snake-dark.svg" />
-  <!-- Пасхалка: Dota 2 -->
-  <!-- The International 2023 чемпион -->
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alindaskmdos&style=for-the-badge&color=blue" alt="Profile Views"/>
-  <br>
-  <br>
-  <!-- Пасхалка: One Piece -->
-  <sub>🏴‍☠️ В поисках One Piece с 1999 года 🏴‍☠️</sub>
 </div>
