@@ -6,24 +6,10 @@
   <br/>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20BDFF&center=true&vCenter=true&width=435&lines=Just+a+student+writing+code...;C%23+enthusiast;.NET+developer;Building+cool+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20BDFF&center=true&vCenter=true&width=435&lines=Just+a+student+writing+code...;Developer?)" alt="Typing SVG" />
   </p>
 
-<div align="center">
-  <svg height="3" width="100%">
-    <defs>
-      <linearGradient id="gradientSeparator" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(0)" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#3CAEA3">
-          <animate attributeName="stop-color" values="#3CAEA3; #20BDFF; #5F5FF6; #A844B7; #E73C7E; #A844B7; #5F5FF6; #20BDFF; #3CAEA3" dur="15s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#20BDFF">
-          <animate attributeName="stop-color" values="#20BDFF; #5F5FF6; #A844B7; #E73C7E; #A844B7; #5F5FF6; #20BDFF; #3CAEA3; #20BDFF" dur="15s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="3" fill="url(#gradientSeparator)" />
-  </svg>
-</div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>О себе</b>
@@ -114,21 +100,7 @@ namespace AboutMe
 </table>
 
 <div align="center">
-<div align="center">
-  <svg height="3" width="100%">
-    <defs>
-      <linearGradient id="gradientSeparator" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(0)" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#3CAEA3">
-          <animate attributeName="stop-color" values="#3CAEA3; #20BDFF; #5F5FF6; #A844B7; #E73C7E; #A844B7; #5F5FF6; #20BDFF; #3CAEA3" dur="15s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#20BDFF">
-          <animate attributeName="stop-color" values="#20BDFF; #5F5FF6; #A844B7; #E73C7E; #A844B7; #5F5FF6; #20BDFF; #3CAEA3; #20BDFF" dur="15s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="3" fill="url(#gradientSeparator)" />
-  </svg>
-</div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub статистика</b>
@@ -154,21 +126,7 @@ namespace AboutMe
 </div>
 
 <div align="center">
-<div align="center">
-  <svg height="3" width="100%">
-    <defs>
-      <linearGradient id="gradientSeparator" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(0)" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#3CAEA3">
-          <animate attributeName="stop-color" values="#3CAEA3; #20BDFF; #5F5FF6; #A844B7; #E73C7E; #A844B7; #5F5FF6; #20BDFF; #3CAEA3" dur="15s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#20BDFF">
-          <animate attributeName="stop-color" values="#20BDFF; #5F5FF6; #A844B7; #E73C7E; #A844B7; #5F5FF6; #20BDFF; #3CAEA3; #20BDFF" dur="15s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="3" fill="url(#gradientSeparator)" />
-  </svg>
-</div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> <b>Вклад</b>
@@ -178,19 +136,5 @@ namespace AboutMe
 </div>
 
 <div align="center">
-<div align="center">
-  <svg height="3" width="100%">
-    <defs>
-      <linearGradient id="gradientSeparator" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(0)" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#3CAEA3">
-          <animate attributeName="stop-color" values="#3CAEA3; #20BDFF; #5F5FF6; #A844B7; #E73C7E; #A844B7; #5F5FF6; #20BDFF; #3CAEA3" dur="15s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#20BDFF">
-          <animate attributeName="stop-color" values="#20BDFF; #5F5FF6; #A844B7; #E73C7E; #A844B7; #5F5FF6; #20BDFF; #3CAEA3; #20BDFF" dur="15s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="3" fill="url(#gradientSeparator)" />
-  </svg>
-</div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
