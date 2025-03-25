@@ -109,7 +109,7 @@ namespace AboutMe
   <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; background-color:#0d1117; table-layout:fixed;">
     <tr style="height:180px; border:none; background-color:#0d1117;">
       <td width="50%" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle; background-color:#0d1117;">
-        <img width="400px" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-stats.vercel.app/api?username=alindaskmdos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&card_width=400" alt="GitHub Stats"/>
+        <img width="400px" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-stats.vercel.app/api?username=alindaskmdos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&card_width=400" alt="GitHub Stats"/>
       </td>
       <td width="50%" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle; background-color:#0d1117;">
         <img width="400px" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaskmdos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=400" alt="Top Languages"/>
@@ -136,4 +136,3 @@ namespace AboutMe
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
