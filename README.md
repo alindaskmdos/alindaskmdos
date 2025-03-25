@@ -15,6 +15,8 @@ just a student
 ---
 [![](https://visitcount.itsvg.in/api?id=alindaskmdos&icon=4&color=0)](https://visitcount.itsvg.in)
 
+![Snake animation](https://github.com/alindaskmdos/alindaskmdos/blob/output/github-snake-dark.svg)
+
 ## Implementation
 
 [solver algorithm](./packages/solver/README.md)
