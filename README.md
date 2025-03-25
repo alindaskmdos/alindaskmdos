@@ -54,7 +54,7 @@ namespace AboutMe
   </span>
 </p>
 
-## <img src="https://i.imgur.com/DyGS8Vd.gif" width="30"> Технический стек
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>Технический стек</b>
 
 <table align="center" style="border:none; border-collapse:collapse; background:transparent;">
 <tr style="border:none;">
