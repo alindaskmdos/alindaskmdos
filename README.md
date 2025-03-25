@@ -15,10 +15,11 @@ just a student
 ---
 [![](https://visitcount.itsvg.in/api?id=alindaskmdos&icon=4&color=0)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/alindaskmdos/alindaskmdos/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alindaskmdos/alindaskmdos/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alindaskmdos/alindaskmdos/raw/output/github-snake.svg">
+  <img alt="github-snake" src="https://github.com/alindaskmdos/alindaskmdos/raw/output/github-snake.svg">
+</picture>
 
-## Implementation
-
-[solver algorithm](./packages/solver/README.md)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
