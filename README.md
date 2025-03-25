@@ -23,12 +23,8 @@ namespace AboutMe
         public string Role { get; private set; } = "Студент";
         public string[] Interests { get; private set; } = 
             { "Программирование", "Технологии", "Разработка" };
-        
-        // Пасхалка: One Piece фан
-        private string _favoritePirate = "Monkey D. Luffy";
-        
-        // Пасхалка: Dota 2 игрок
-        private int _mmr = 4200; // Репортнули :(
+
+        private int _priority = 10800; // Репортнули :(
 
         public void SayHi()
         {
@@ -109,17 +105,21 @@ namespace AboutMe
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub статистика</b>
 
 <div align="center">
-  <a href="https://github.com/alindaskmdos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alindaskmdos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaskmdos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </a>
+  <p>
+    <a href="https://github.com/alindaskmdos">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alindaskmdos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    </a>
+    <a href="https://github.com/alindaskmdos">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaskmdos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/alindaskmdos">
+      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=alindaskmdos&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    </a>
+  </p>
 </div>
 
-<div align="center">
-  <a href="https://github.com/alindaskmdos">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alindaskmdos&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
