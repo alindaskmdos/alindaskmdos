@@ -15,11 +15,7 @@ just a student
 ---
 [![](https://visitcount.itsvg.in/api?id=alindaskmdos&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alindaskmdos/alindaskmdos/raw/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alindaskmdos/alindaskmdos/raw/output/github-snake.svg">
-  <img alt="github-snake" src="https://github.com/alindaskmdos/alindaskmdos/raw/output/github-snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/alindaskmdos/alindaskmdos/output/github-snake-dark.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
