@@ -107,19 +107,17 @@ namespace AboutMe
 
 <div align="center" style="background-color:#0d1117;">
   <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; background-color:#0d1117; table-layout:fixed;">
-    <!-- Первый ряд с GitHub Stats и Top Languages -->
     <tr style="height:180px; border:none; background-color:#0d1117;">
       <td width="50%" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle; background-color:#0d1117;">
-        <img width="400px" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-stats.vercel.app/api?username=alindaskmdos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&card_width=400" alt="GitHub Stats"/>
+        <img width="400px" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-stats.vercel.app/api?username=alindaskmdos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&card_width=400" alt="GitHub Stats"/>
       </td>
       <td width="50%" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle; background-color:#0d1117;">
-        <img width="400px" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaskmdos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=400" alt="Top Languages"/>
+        <img width="400px" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaskmdos&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&card_width=400" alt="Top Languages"/>
       </td>
     </tr>
-    <!-- Второй ряд с GitHub Streak -->
     <tr style="height:180px; border:none; background-color:#0d1117;">
       <td colspan="2" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle; background-color:#0d1117;">
-        <img width="70%" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-streak-stats.herokuapp.com/?user=alindaskmdos&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+        <img width="70%" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-streak-stats.herokuapp.com/?user=alindaskmdos&theme=tokyonight&hide_border=true&count_private=true&background=0D1117" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
