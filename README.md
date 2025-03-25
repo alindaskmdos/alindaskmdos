@@ -22,7 +22,7 @@ namespace AboutMe
         public string Name { get; private set; } = "alindaskmdos";
         public string Role { get; private set; } = "Студент";
         public string[] Interests { get; private set; } = 
-            { "Программирование", "Технологии", "Разработка" };
+            { "Программирование", "Технологии", "Разработка", "D&D", "Игры", "Аниме" };
 
         private int _priority = 10800; // Репортнули :(
 
@@ -54,7 +54,7 @@ namespace AboutMe
   </span>
 </p>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>Технический стек</b>
+## <img src="https://i.imgur.com/DyGS8Vd.gif" width="30"> Технический стек
 
 <table align="center" style="border:none; border-collapse:collapse; background:transparent;">
 <tr style="border:none;">
@@ -138,3 +138,5 @@ namespace AboutMe
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+
