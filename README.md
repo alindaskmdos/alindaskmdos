@@ -30,7 +30,7 @@ namespace AboutMe
 
         public void SayHi()
         {
-            Console.WriteLine("Спасибо, что заглянули в мой GitHub профиль!");
+            Console.WriteLine("Хающки)");
         }
     }
 
