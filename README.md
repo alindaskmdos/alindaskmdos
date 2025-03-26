@@ -107,20 +107,18 @@ namespace AboutMe
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub статистика</b>
-
-<div align="center" style="background-color:#0d1117;">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; background-color:#0d1117; table-layout:fixed;">
-    <tr style="height:180px; border:none; background-color:#0d1117;">
-      <td width="50%" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle; background-color:#0d1117;">
-        <img width="400px" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-stats.vercel.app/api?username=alindaskmdos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&card_width=400" alt="GitHub Stats"/>
+<div align="center">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; background:transparent; table-layout:auto; margin:20px 0;">
+    <tr style="border:none; background:transparent;">
+      <td width="50%" align="center" style="padding:15px; border:none; vertical-align:middle; background:transparent;">
+        <img width="500px" height="250px" style="max-width:100%; object-fit:contain; background:transparent;" 
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaskmdos&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&card_width=500" 
+             alt="Top Languages"/>
       </td>
-      <td width="50%" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle; background-color:#0d1117;">
-        <img width="400px" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaskmdos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=400" alt="Top Languages"/>
-      </td>
-    </tr>
-    <tr style="height:180px; border:none; background-color:#0d1117;">
-      <td colspan="2" align="center" style="padding:0; border:none; border-color:transparent; vertical-align:middle; background-color:#0d1117;">
-        <img width="70%" height="180px" style="max-width:100%; object-fit:contain; background-color:#0d1117;" src="https://github-readme-streak-stats.herokuapp.com/?user=alindaskmdos&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+      <td width="50%" align="center" style="padding:15px; border:none; vertical-align:middle; background:transparent;">
+        <img width="500px" height="250px" style="max-width:100%; object-fit:contain; background:transparent;" 
+             src="https://github-readme-streak-stats.herokuapp.com/?user=alindaskmdos&theme=tokyonight&hide_border=true&background=00000000" 
+             alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
