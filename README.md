@@ -40,7 +40,6 @@ namespace AboutMe
         {
             Developer? me = new Developer();
             me.SayHi();
-            me.SayHi();
         }
     }
 }
