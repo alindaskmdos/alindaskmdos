@@ -111,13 +111,13 @@ namespace AboutMe
   <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; background:transparent; table-layout:auto; margin:20px 0;">
     <tr style="border:none; background:transparent;">
       <td width="50%" align="center" style="padding:15px; border:none; vertical-align:middle; background:transparent;">
-        <img width="500px" height="250px" style="max-width:100%; object-fit:contain; background:transparent;" 
+        <img width="500px" height="250px" style="max-width:100%; object-fit:contain;" 
              src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaskmdos&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&card_width=500" 
              alt="Top Languages"/>
       </td>
       <td width="50%" align="center" style="padding:15px; border:none; vertical-align:middle; background:transparent;">
-        <img width="500px" height="250px" style="max-width:100%; object-fit:contain; background:transparent;" 
-             src="https://github-readme-streak-stats.herokuapp.com/?user=alindaskmdos&theme=tokyonight&hide_border=true&background=00000000" 
+        <img width="500px" height="250px" style="max-width:100%; object-fit:contain;" 
+             src="https://github-readme-streak-stats.herokuapp.com/?user=alindaskmdos&theme=tokyonight&hide_border=true&background=0D1117" 
              alt="GitHub Streak"/>
       </td>
     </tr>
